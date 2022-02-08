@@ -1,0 +1,26 @@
+body{
+    backgrund: radial-gradient(circle, #fff, #bbb);
+}
+#colorTommy{
+    color:#3D2875;
+}
+#colorTommyBackground{
+    background-color:#3D2875;
+    border-radius: 5px solid;
+}
+nav{
+    backgrund: radial-gradient(circle, #fff, #bbb);
+}
+#logotommy{
+  max-width: 250px;
+}
+#logotommy1{
+    max-width: 120px;
+  }
+#footer{
+    background-color: #493f66;
+    color: white;
+}
+.logoContacto{
+    max-width: 30px;
+}
